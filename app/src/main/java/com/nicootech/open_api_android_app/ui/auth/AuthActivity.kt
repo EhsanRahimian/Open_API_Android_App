@@ -1,7 +1,8 @@
-package com.nicootech.open_api_android_app
+package com.nicootech.open_api_android_app.ui.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nicootech.open_api_android_app.R
 
 class AuthActivity : AppCompatActivity() {
 
